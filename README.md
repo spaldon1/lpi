@@ -10,6 +10,7 @@ Praktické cvičenia
 
 * [Cvičenie 0](cv00) (inicializácia)
 * [Cvičenie 1](cv01) (SAT solver)
+* [Cvičenie 2](cv02) (Sudoku)
 
 Za účelom odovzdávania cvičení získate prístup k súkromnému repozitáru na GitHub-e.
 Používaním tohoto repozitára (t.j. nahrávaním súbrov, napríklad vašich riešení) prejavujte
