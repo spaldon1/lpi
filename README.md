@@ -5,6 +5,8 @@ Logika pre informatikov
 
 [Inštrukcie na odovzdávanie riešení](odovzdavanie.md)
 
+[Témy ročníkových projektov](docs/temy-rp.md)
+
 Praktické cvičenia
 ------------------
 
