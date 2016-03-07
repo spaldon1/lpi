@@ -7,7 +7,7 @@
 #
 
 import sys
-from sudoku import SudokuSolver
+from SudokuSolver import SudokuSolver
 
 
 class Tester(object):

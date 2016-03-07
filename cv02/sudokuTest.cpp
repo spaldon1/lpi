@@ -1,14 +1,14 @@
 /**
  * Testovaci program pre sudoku kniznicu.
- * Kniznica musi byt v suboroch sudoku.h a sudoku.cpp, musi implementovat
- * triedu SudokuSolver, ktora implementuje SudokuSolverInterface zo
- * suboru SudokuSolverInterface.h a ma defaultny konstruktor.
+ * Kniznica musi byt v suboroch SudokuSover.h a SudokuSolver.cpp, musi implementovat
+ * triedu SudokuSolver, ktora ma defaultny konstruktor a implementuje
+ * metodu solve so spravnou signaturou (vid zadanie).
  *
  * Ak vasa kniznica pouziva (iba) triedy DimacsWriter / SatSolver
  * z ../examples/sat/, tento testovaci program by sa mal dat
  * skompilovat nasledovnym prikazom:
  *
- * g++ -std=c++11 -o cv04test cv04test.cpp sudoku.cpp ../examples/sat/sat.cpp -I../examples/sat/
+ * g++ -std=c++11 -o sudokuTest sudokuTestest.cpp SudokuSolver.cpp ../examples/sat/sat.cpp -I../examples/sat/
  *
  */
 

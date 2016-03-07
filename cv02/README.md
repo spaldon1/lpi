@@ -116,7 +116,7 @@ maticu čísel (zoznam zoznamov čísel) a&nbsp;vracia rovnako dvojrozmernú mat
 čísel.
 
 Program [`sudokuTest.py`](sudokuTest.py) musí korektne zbehnúť s&nbsp;vašou knižnicou
-(súborom `sudoku.py`, ktorý odovzdáte).
+(súborom `SudokuSolver.py`, ktorý odovzdáte).
 
 Ak chcete použiť knižnicu z&nbsp;[examples/sat](../examples/sat), nemusíte si ju
 kopírovať do aktuálne adresára, stačí ak na začiatok svojej knižnice pridáte
